@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.408 s <<< FAILURE! - in TestSuite
+f(pkg_1.NewTest)  Time elapsed: 0.119 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\BLTuser.BLT0202\eclipse-workspace\CTS_MAVEN_1\chromedriver_v79.exe
+	at pkg_1.NewTest.f(NewTest.java:11)
+
